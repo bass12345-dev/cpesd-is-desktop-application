@@ -4,7 +4,6 @@ C:\Users\Basil\source\repos\Sample\Sample\bin\Debug\net6.0-windows\Sample.runtim
 C:\Users\Basil\source\repos\Sample\Sample\bin\Debug\net6.0-windows\Sample.dll
 C:\Users\Basil\source\repos\Sample\Sample\bin\Debug\net6.0-windows\Sample.pdb
 C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.csproj.AssemblyReference.cache
-C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.Form1.resources
 C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.csproj.GenerateResource.cache
 C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.AssemblyInfoInputs.cache
@@ -16,3 +15,5 @@ C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.pdb
 C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.genruntimeconfig.cache
 C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\ref\Sample.dll
 C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.Properties.Resources.resources
+C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.LoginForm.resources
+C:\Users\Basil\source\repos\Sample\Sample\obj\Debug\net6.0-windows\Sample.AdminDashboardForm.resources
