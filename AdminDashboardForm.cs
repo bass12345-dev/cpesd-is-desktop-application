@@ -19,7 +19,7 @@ namespace Sample
 
         private void AdminDashboardForm_Load(object sender, EventArgs e)
         {
-
+            Console.WriteLine('a');
         }
 
         private void label1_Click(object sender, EventArgs e)

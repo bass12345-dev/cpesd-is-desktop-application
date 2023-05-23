@@ -62,6 +62,7 @@
             ClientSize = new Size(896, 450);
             Controls.Add(label1);
             Controls.Add(button1);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             Name = "AdminDashboardForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Admin Dashboard";
