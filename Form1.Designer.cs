@@ -146,7 +146,7 @@
             button2.FlatAppearance.BorderSize = 0;
             button2.FlatStyle = FlatStyle.Flat;
             button2.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new Point(313, 291);
+            button2.Location = new Point(313, 319);
             button2.Name = "button2";
             button2.Size = new Size(112, 44);
             button2.TabIndex = 6;
@@ -159,7 +159,7 @@
             panel4.BackColor = Color.White;
             panel4.Controls.Add(textBox2);
             panel4.Controls.Add(pictureBox3);
-            panel4.Location = new Point(6, 229);
+            panel4.Location = new Point(6, 260);
             panel4.Name = "panel4";
             panel4.Size = new Size(432, 45);
             panel4.TabIndex = 5;
@@ -190,7 +190,7 @@
             panel3.BackColor = Color.White;
             panel3.Controls.Add(textBox1);
             panel3.Controls.Add(pictureBox2);
-            panel3.Location = new Point(6, 172);
+            panel3.Location = new Point(6, 203);
             panel3.Name = "panel3";
             panel3.Size = new Size(432, 45);
             panel3.TabIndex = 2;
@@ -199,6 +199,7 @@
             // textBox1
             // 
             textBox1.Font = new Font("Segoe UI Light", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
+            textBox1.ForeColor = SystemColors.Window;
             textBox1.Location = new Point(52, 6);
             textBox1.Margin = new Padding(0);
             textBox1.Name = "textBox1";
@@ -221,7 +222,7 @@
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Light", 18F, FontStyle.Regular, GraphicsUnit.Point);
             label3.ForeColor = SystemColors.ActiveCaptionText;
-            label3.Location = new Point(120, 117);
+            label3.Location = new Point(120, 148);
             label3.Name = "label3";
             label3.Size = new Size(235, 32);
             label3.TabIndex = 1;
@@ -232,6 +233,7 @@
             // button1
             // 
             button1.BackColor = SystemColors.ControlLightLight;
+            button1.Cursor = Cursors.Hand;
             button1.FlatAppearance.BorderSize = 0;
             button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
